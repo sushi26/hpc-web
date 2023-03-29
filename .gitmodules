@@ -1,3 +1,6 @@
 [submodule "MultithreadedWebcrawler"]
 	path = MultithreadedWebcrawler
 	url = https://github.com/bpieszko/MultithreadedWebcrawler
+[submodule "cpp-crawler"]
+	path = cpp-crawler
+	url = https://github.com/sushi426/cpp-crawler
