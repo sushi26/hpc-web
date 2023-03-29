@@ -1,2 +1,3 @@
 # hpc-web
-high performance web crawler and server in c++.
+
+For school work please email me.
