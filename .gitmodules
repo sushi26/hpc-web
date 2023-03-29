@@ -4,3 +4,6 @@
 [submodule "cpp-crawler"]
 	path = cpp-crawler
 	url = https://github.com/sushi426/cpp-crawler
+[submodule "cpp-server-hpc"]
+	path = cpp-server-hpc
+	url = https://github.com/sushi426/cpp-server-hpc
